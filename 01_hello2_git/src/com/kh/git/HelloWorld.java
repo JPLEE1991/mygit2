@@ -15,6 +15,7 @@ public class HelloWorld {
 		//나 원격 저장소 연결 성공했어!
 		
 		System.out.println("여기는 원격저장소입니다.");
+		System.out.println("여기는 원격저장소입니다222");
 	}
 
 }
