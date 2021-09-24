@@ -12,6 +12,7 @@ public class HelloWorld {
 		System.out.println("안녕하세요, 저는 branch1입니다.");
 		
 		new Foo().say();
+		//나 원격 저장소 연결 성공했어!
 	}
 
 }
